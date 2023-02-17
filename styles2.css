@@ -1,0 +1,35 @@
+
+body{
+	
+	background: #ff4d4d
+
+	
+}
+title{
+	color: white;
+}
+ h1{
+	
+	
+	
+		text-align:center 
+}
+
+p{
+	
+				font-size:35px;
+
+}
+
+
+
+
+a{	border-radius:10px;
+	text-decoration:none;
+	background-color:black;
+	color:white;
+	text-align: center;
+	padding:20px 40px;
+	display:inline-block;
+	
+}

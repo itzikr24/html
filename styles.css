@@ -1,0 +1,38 @@
+body{
+		background:#ccffff
+
+	
+}
+
+	
+
+ h1{
+	
+	
+	
+		text-align:center 
+}
+
+img{
+	margin: px1 auto;
+
+	display: block;
+	}
+	p{
+			font-size:26px;
+			text-align:center
+	
+	}
+		
+	a{
+	border-radius:10px;
+	text-decoration:none;
+	background-color:black;
+	color:white;
+	text-align: center;
+	padding:15px 25px;
+	display:inline-block;
+	}
+	
+	
+	
